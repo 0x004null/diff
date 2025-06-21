@@ -3,13 +3,14 @@
 # diss-asm
 
 #_venv var_ memory cache
-asm='$'
+env='$'
 
-echo $asm + ' ('asm')
-for i in 1 2 3 4
+echo $env + ' ('env')
+for i in 1 2 3 4 ... 
   echo $i, $asm
 
 
+# unset /dir /usr /env /...
   unset
 
 
@@ -23,3 +24,8 @@ while [ ]
 
 
 end
+
+
+
+
+
